@@ -1,0 +1,14 @@
+body {
+    background-color: #222222; /* Set the background color of the body to dark gray */
+    font: 12pt arial;
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+    overflow: hidden; /* Hide scrollbars */
+}
+#mynetwork {
+    width: calc(100% - 40px); /* Set width to 100% minus 40px padding (20px on each side) */
+    height: calc(100vh - 40px); /* Set height to 100% of viewport height minus 40px padding (20px on top and bottom) */
+    margin: 20px auto; /* Center the container horizontally */
+    border: 1px solid #444444;
+    background-color: #222222;
+}
