@@ -1,4 +1,3 @@
-Explore the interactive graph hosted on GitHub Pages by clicking [here.](https://cbgithub7.github.io/Material-Classification-Network-Graph/github_pages/index.html){:target="_blank"}
 <a href="https://cbgithub7.github.io/Material-Classification-Network-Graph/github_pages/index.html" target="_blank">Explore the interactive graph hosted on GitHub Pages</a>
 
 
