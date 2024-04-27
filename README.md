@@ -1,3 +1,3 @@
-Click [here](https://cbgithub7.github.io/Materials-Tree/github_pages/index.html) to view the interactive graph.
+Click [here](https://cbgithub7.github.io/Material-Classification-Network-Graph/github_pages/index.html) to view the interactive graph.
 
-![Graph](https://cbgithub7.github.io/Materials-Tree/graph.png)
+![Graph](https://cbgithub7.github.io/Material-Classification-Network-Graph/graph.png)
