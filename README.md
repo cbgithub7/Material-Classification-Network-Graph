@@ -1,4 +1,4 @@
-Click [here](https://cbgithub7.github.io/Material-Classification-Network-Graph/github_pages/index.html) to view the interactive graph.
+Explore the interactive graph hosted on GitHub Pages by clicking [here](https://cbgithub7.github.io/Material-Classification-Network-Graph/github_pages/index.html).
 
 ![Graph](https://cbgithub7.github.io/Material-Classification-Network-Graph/graph.png)
 
