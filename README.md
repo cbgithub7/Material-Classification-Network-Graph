@@ -1,5 +1,25 @@
 <a href="https://cbgithub7.github.io/Material-Classification-Network-Graph/github_pages/index.html" target="_blank">Explore the interactive graph hosted on GitHub Pages</a>
 
+# Material Classification Network Graph
+
+This repository contains an interactive graph visualizing material classification using the vis.js library.
+
+## Interactive Graph
+
+<a href="https://cbgithub7.github.io/Material-Classification-Network-Graph/github_pages/index.html" target="_blank">Explore the interactive graph hosted on GitHub Pages</a>
+
+## Features
+
+- Zoom in and out of the graph.
+- Click and drag nodes with physics interaction.
+- Graph nodes represent different materials and are organized hierarchically.
+
+## Usage
+
+To interact with the graph, use the following controls:
+- Zoom: Use the mouse scroll wheel or pinch gesture.
+- Pan: Click and drag anywhere on the graph canvas to move around.
+- Node Interaction: Click and drag individual nodes to rearrange their positions.
 
 ![Graph](https://cbgithub7.github.io/Material-Classification-Network-Graph/graph.png)
 
