@@ -1,5 +1,3 @@
-<a href="https://cbgithub7.github.io/Material-Classification-Network-Graph/github_pages/index.html" target="_blank">Explore the interactive graph hosted on GitHub Pages</a>
-
 # Material Classification Network Graph
 
 This repository contains an interactive graph visualizing material classification using the vis.js library.
